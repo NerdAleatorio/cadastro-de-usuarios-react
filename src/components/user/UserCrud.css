@@ -1,0 +1,22 @@
+.form{
+    margin-bottom: 3rem;
+}
+
+.açoes > td button{
+    margin-left: 5px;
+}
+
+.botoes-form > button{
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.form-div h1{
+    font-size: 1.8rem;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+div.form-div p{
+    margin-bottom: 3rem;
+    border-bottom: 2px solid #000000;
+}
